@@ -2,7 +2,7 @@
 Convert one range to another range
 
 ## Usage
-```
+```typescript
 import { useConvertRange } from '@/convert-range/'
 
 const originalRange = { min: 9, max: 43 }
